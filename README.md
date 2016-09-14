@@ -1,5 +1,4 @@
 # expresii-romanesti
 
 > a
- 
 > b
